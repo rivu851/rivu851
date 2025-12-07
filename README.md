@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x300?text=Your+Banner+Here" alt="Banner"/>
+  <img src="https://github.com/rivu851/rivu851/blob/main/Cover%20.jpg?raw=true" alt="Banner"/>
 </p>
 
 <!-- Profile Photo on Right -->
