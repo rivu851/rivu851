@@ -4,7 +4,7 @@
 </p>
 
 <!-- Profile Photo on Right -->
-<img align="right" src="https://avatars.githubusercontent.com/u/000000?v=4" width="180" style="border-radius: 50%;" />
+<img align="right" src="https://github.com/rivu851/rivu851/blob/main/Cover%20.jpg?raw=true" width="180" style="border-radius: 50%;" />
 
 # 👋 Hi, I'm Rivu Chattopadhyay  
 
