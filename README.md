@@ -27,29 +27,3 @@ Always exploring something new, always learning. 🚀
 
 ---
 
-## 🚀 Tech Stack  
-
-### 💻 Languages & Frameworks  
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-
-
----
-
-## 📌 Pinned Projects  
-👉 Customize this from your GitHub profile → **Customize your pins**
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rivu851&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=rivu851&theme=tokyonight" />
-</p>
-
----
-
-⭐ *Thanks for visiting my profile!*
