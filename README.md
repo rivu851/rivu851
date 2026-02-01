@@ -11,7 +11,7 @@
 
 # 👋 Hi, I'm Rivu Chattopadhyay  
 
-### 🌟 Tech Enthusiast | ML Learner | Web Developer  
+### 🌟 Gen AI Enthusiast | Web & App Developer  
 
 📍 West Bengal, India  
 🎓 B.Tech IT Student  
