@@ -13,7 +13,7 @@
   />
 </p>
 
-<!-- Boy Coding GIF (replaced girl waving GIF) -->
+<!-- Boy Coding GIF -->
 <img 
   align="right" 
   alt="Coding" 
@@ -74,3 +74,16 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rivu851" />
 </p>
+
+---
+
+<!-- GitHub Snake -->
+![GitHub Snake](https://raw.githubusercontent.com/rivu851/rivu851/output/snake.svg)
+
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api?username=rivu851&theme=highcontrast&hide_border=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=rivu851&theme=highcontrast&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rivu851&theme=highcontrast&hide_border=true&layout=compact)
