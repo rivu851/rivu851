@@ -63,12 +63,10 @@
 
 ---
 
-
-
----
-
 <!-- GitHub Snake -->
 ![GitHub Snake](https://raw.githubusercontent.com/rivu851/rivu851/output/snake.svg)
+
+---
 
 # 📊 GitHub Stats:
 
