@@ -52,7 +52,6 @@
 
 <h2 align="left">Things I code with</h2>
 
-###
 
 <h3 align="left">Languages</h3>
 
