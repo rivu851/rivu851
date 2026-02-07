@@ -24,10 +24,11 @@
 ---
 
 - 🔭 I’m interested in **Web Development, Machine Learning & Generative AI**
-- 🌱 I’m currently learning **Backend Development, ML & Agentic AI**
+- 🌱 I’m currently the **GDG WEB LEAD @RCCIIT** & **ACM WEB LEAD @RCCIIT**
+- 🌱 I have been the the **TECH LEAD OF IMEET'25**
 - 🤝 I’m eager to contribute to **open-source projects & collaborations**
 - 💬 Ask me about **React, Next.js, Node.js**
-- 📫 How to reach me **your-email@gmail.com**
+- 📫 How to reach me **rivu851@gmail.com**
 - ⚡ Fun fact **I love building side projects and exploring new tech**
 
 ---
