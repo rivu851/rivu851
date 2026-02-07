@@ -1,50 +1,48 @@
-<!-- Banner -->
+<!-- Banner Image -->
 <p align="center">
   <img src="https://github.com/rivu851/rivu851/blob/main/Cover%20.jpg?raw=true" alt="Banner"/>
 </p>
 
 ---
 
+<!-- Two Column Layout -->
 <table>
 <tr>
+<td width="40%" align="center">
 
-<!-- Left: Animation -->
-<td width="42%" align="center">
-  <img 
-    src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzR3a3R4Z3V0cWl3bW9tb3B2dWN0c3F5bGZ1Z3J3eG5qZ2x6eGx5YSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tn33aiTi1jkl6H6/giphy.gif" 
-    width="100%" 
-    alt="Developer Animation"
-  />
+<!-- Animated Image -->
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+     alt="Coding Animation" width="100%" />
+
 </td>
 
-<!-- Right: Intro -->
-<td width="58%">
+<td width="60%">
 
-<h1>Hey, I'm Rivu 👋</h1>
+# 👋 Hi, I'm **Rivu Chattopadhyay**
 
-<h3>Gen-AI Explorer • Web & App Developer</h3>
+### 🚀 Gen AI Enthusiast | Web & App Developer  
 
-📍 West Bengal, India  
-🎓 B.Tech IT  
-
----
-
-I build things that **feel good to use** and  
-**make sense under the hood**.
-
-Currently diving into:
-- ⚡ Generative AI & ML
-- 🌐 Modern Web Dev
-- 🧠 Turning ideas → working products
+📍 **West Bengal, India**  
+🎓 **B.Tech IT Student**  
 
 ---
 
-🛠️ **Stack I vibe with**  
-`JavaScript` `React` `Node.js` `Python` `ML`
+### 🌱 About Me
+- 🤖 Exploring **Machine Learning & Generative AI**
+- 🌐 Building projects with **Web & App Technologies**
+- 🧠 Always learning, always experimenting
+- 💡 I love blending **creativity + technology** into real projects
 
 ---
 
-✨ *Code. Create. Iterate.*  
+### 🛠️ Tech Interests
+- JavaScript | React | Node.js  
+- Python | Machine Learning  
+- Gen AI & Creative Tech  
+
+---
+
+✨ *Turning ideas into code, and code into experiences.*  
 
 </td>
 </tr>
