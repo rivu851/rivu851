@@ -1,4 +1,4 @@
-<!-- Top Banner (UNCHANGED) -->
+<!-- Top Banner -->
 <p align="center">
   <img src="https://github.com/rivu851/rivu851/blob/main/Cover%20.jpg?raw=true" alt="Banner"/>
 </p>
@@ -13,7 +13,7 @@
   />
 </p>
 
-<!-- Boy Coding GIF (replacing girl waving) -->
+<!-- Boy Coding GIF (replaced girl waving GIF) -->
 <img 
   align="right" 
   alt="Coding" 
@@ -23,17 +23,20 @@
 
 ---
 
-- 🔭 Interested in **Web Development, Machine Learning & Generative AI**
-- 🌱 Currently learning **Backend Development, ML & Agentic AI**
-- 🤝 Open to **open-source contributions & collaborations**
+- 🔭 I’m interested in **Web Development, Machine Learning & Generative AI**
+- 🌱 I’m currently learning **Backend Development, ML & Agentic AI**
+- 🤝 I’m eager to contribute to **open-source projects & collaborations**
 - 💬 Ask me about **React, Next.js, Node.js**
-- 📫 Reach me at **your-email@gmail.com**
-- ⚡ Fun fact: **I love building side projects and exploring new tech**
+- 📫 How to reach me **your-email@gmail.com**
+- ⚡ Fun fact **I love building side projects and exploring new tech**
 
 ---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
   <a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
